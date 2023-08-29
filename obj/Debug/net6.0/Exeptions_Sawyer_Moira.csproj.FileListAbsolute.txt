@@ -1,0 +1,14 @@
+C:\Users\MoiraSawyer\source\repos\Exeptions_Sawyer_Moira\obj\Debug\net6.0\Exeptions_Sawyer_Moira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MoiraSawyer\source\repos\Exeptions_Sawyer_Moira\obj\Debug\net6.0\Exeptions_Sawyer_Moira.AssemblyInfoInputs.cache
+C:\Users\MoiraSawyer\source\repos\Exeptions_Sawyer_Moira\obj\Debug\net6.0\Exeptions_Sawyer_Moira.AssemblyInfo.cs
+C:\Users\MoiraSawyer\source\repos\Exeptions_Sawyer_Moira\obj\Debug\net6.0\Exeptions_Sawyer_Moira.csproj.CoreCompileInputs.cache
+C:\Users\MoiraSawyer\source\repos\Exeptions_Sawyer_Moira\bin\Debug\net6.0\Exeptions_Sawyer_Moira.exe
+C:\Users\MoiraSawyer\source\repos\Exeptions_Sawyer_Moira\bin\Debug\net6.0\Exeptions_Sawyer_Moira.deps.json
+C:\Users\MoiraSawyer\source\repos\Exeptions_Sawyer_Moira\bin\Debug\net6.0\Exeptions_Sawyer_Moira.runtimeconfig.json
+C:\Users\MoiraSawyer\source\repos\Exeptions_Sawyer_Moira\bin\Debug\net6.0\Exeptions_Sawyer_Moira.dll
+C:\Users\MoiraSawyer\source\repos\Exeptions_Sawyer_Moira\bin\Debug\net6.0\Exeptions_Sawyer_Moira.pdb
+C:\Users\MoiraSawyer\source\repos\Exeptions_Sawyer_Moira\obj\Debug\net6.0\Exeptions_Sawyer_Moira.dll
+C:\Users\MoiraSawyer\source\repos\Exeptions_Sawyer_Moira\obj\Debug\net6.0\refint\Exeptions_Sawyer_Moira.dll
+C:\Users\MoiraSawyer\source\repos\Exeptions_Sawyer_Moira\obj\Debug\net6.0\Exeptions_Sawyer_Moira.pdb
+C:\Users\MoiraSawyer\source\repos\Exeptions_Sawyer_Moira\obj\Debug\net6.0\Exeptions_Sawyer_Moira.genruntimeconfig.cache
+C:\Users\MoiraSawyer\source\repos\Exeptions_Sawyer_Moira\obj\Debug\net6.0\ref\Exeptions_Sawyer_Moira.dll
